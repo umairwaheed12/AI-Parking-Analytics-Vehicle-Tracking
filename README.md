@@ -31,7 +31,7 @@ model1/weights/last.pt
 ## 🟦 **Model 2 — Aerial Vehicle Detection Model**
 Folder:
 ```
-multi-vehicles/Exp_Sample/
+model2/weights/last.pt
 ```
 Purpose:
 - Detect vehicles from **aerial / top‑view perspective**
