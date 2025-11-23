@@ -17,11 +17,11 @@ project_root/
 │
 ├── park.py                     # Main script (detection + tracking + UI panel)
 ├── README.md                   # Project documentation
-├── models/                     
+├── models1/                     
 │   ├── parking_model.pt
+├── models2/                     
 │   └── aerial_model.pt
-└── examples/
-    └── input_video.mp4
+
 ```
 
 ## 🔧 Requirements
